@@ -1,3 +1,9 @@
+Version 1.1.0
+- The favicon is now round
+- Now clicking on the project's card will redirect you to the project's main website
+- Added logo in the top right
+- Created an alt for every image on the website
+
 Version 1.0.1
 - Changed website's title
 - Changed website's description
