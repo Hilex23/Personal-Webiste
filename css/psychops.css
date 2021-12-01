@@ -1,0 +1,70 @@
+@import url(main.css);
+
+/* PsychOps section */
+.psychops .psychops-content .column {
+    width: calc(50% - 30px);
+}
+
+.psychops .psychops-content .left .text {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.psychops .psychops-content .left p {
+    text-align: justify;
+}
+
+.psychops .psychops-content .left a {
+    display: inline-block;
+    background: #EA1646;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 8px 16px;
+    margin-top: 20px;
+    border-radius: 6px;
+    border: 2px solid #EA1646;
+    transition: all 0.3s ease;
+}
+
+.psychops .psychops-content .left a:hover {
+    color: #EA1646;
+    background: none;
+}
+
+.psychops .psychops-content .right .bars {
+    margin-bottom: 15px;
+}
+
+.psychops .psychops-content .right .info {
+    display: flex;
+    margin-bottom: 5px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.psychops .psychops-content .right span {
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.psychops .psychops-content .right .line {
+    height: 5px;
+    width: 100%;
+    background: lightgrey;
+    position: relative;
+}
+
+.psychops .psychops-content .right .line::before {
+    content: "";
+    position: absolute;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: #EA1646;
+}
+
+.s1 {
+    width: 35em;
+}

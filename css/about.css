@@ -1,0 +1,41 @@
+@import url(main.css);
+
+/* About section */
+.about .about-content .left {
+    width: 45%;
+}
+
+.about .about-content .left img {
+    height: 400px;
+    width: 400px;
+    object-fit: cover;
+    border-radius: 6px;
+}
+
+.about .about-content .right {
+    width: 55%;
+}
+
+.about .about-content .right .text {
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.about .about-content .right .text span {
+    color: #EA1646;
+}
+
+.about .about-content .right p {
+    text-align: justify;
+}
+
+.about .about-content .right a {
+    color: #EA1646;
+    transition: 150ms;
+}
+
+.about .about-content .right a:hover {
+    color: #C61241;
+    transition: 150ms;
+}
