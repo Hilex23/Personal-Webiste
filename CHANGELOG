@@ -1,3 +1,7 @@
+Version 1.1.1
+- Removed logo in the top right
+- Fixed how th navbar looks on mobile (related to ^^)
+
 Version 1.1.0
 - The favicon is now round
 - Now clicking on the project's card will redirect you to the project's main website
