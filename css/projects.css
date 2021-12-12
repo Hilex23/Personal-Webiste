@@ -20,7 +20,6 @@
     cursor: pointer;
     transition: all 0.3s ease;
 }
-
 .projects .serv-content .card:hover {
     background: #EA1646;
 }
@@ -40,6 +39,10 @@
 }
 
 .projects .serv-content .card:hover i {
+    color: #fff;
+}
+
+.card:hover span {
     color: #fff;
 }
 

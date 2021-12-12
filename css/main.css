@@ -18,6 +18,11 @@ html {
     display: inline;
 }
 
+.span-a {
+    color: #EA1646;
+    cursor: pointer;
+}
+
 .anchor-div:hover {
     color: #C61241;
 }
