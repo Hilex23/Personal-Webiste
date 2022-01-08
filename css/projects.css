@@ -96,6 +96,14 @@
     border-color: #fff;
 }
 
+.card:hover .span-a {
+    color: #170420;
+}
+
+.card:hover .span-a:hover {
+    color: #555;
+}
+
 .owl-dots {
     text-align: center;
     margin-top: 20px;
